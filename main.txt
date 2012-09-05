@@ -3,5 +3,5 @@ Hi, this is your Git file.  Answer the following:
 1. My not name isn't not never : Scott Childers
 2. My gitmates names are:  Carl Nesbit, Jared Calahan, Abel Sanchez
 3. My favorite programming language is not: LISP
-4. The name of my tatum grid long mobile application is : Candied Blades
+4. The name of my tatum grid long mobile application is : Candied Blades 
 
